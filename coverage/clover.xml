@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1725442967507" clover="3.2.0">
+  <project timestamp="1725442967507" name="All files">
+    <metrics statements="201" coveredstatements="153" conditionals="76" coveredconditionals="49" methods="70" coveredmethods="56" elements="347" coveredelements="258" complexity="0" loc="201" ncloc="201" packages="21" files="34" classes="34"/>
+    <package name="src">
+      <metrics statements="14" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="App.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/App.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/index.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+      </file>
+      <file name="reportWebVitals.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/reportWebVitals.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+      <file name="router.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/router.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.episodeCouter">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="episodeCounter.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/episodeCouter/episodeCounter.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.episodeTable">
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+      <file name="episodeTable.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/episodeTable/episodeTable.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+        <line num="14" count="65" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="49" count="48" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="44" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="75" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.filterInput">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="filterInput.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/filterInput/filterInput.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.headerSection">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="headerSection.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/headerSection/headerSection.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.podcast">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="podcasts.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/podcast/podcasts.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="24" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.podcastDescriptionCard">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="podcastDescriptionCard.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/podcastDescriptionCard/podcastDescriptionCard.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.skeletons">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="skeletonCardList.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/skeletons/skeletonCardList.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="12" type="stmt"/>
+      </file>
+      <file name="skeletonEpisodePlayer.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/skeletons/skeletonEpisodePlayer.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="42" type="stmt"/>
+        <line num="10" count="42" type="stmt"/>
+      </file>
+      <file name="skeletonPodcastDetail.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/skeletons/skeletonPodcastDetail.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="skeletonTableEpisodeDetail.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/components/skeletons/skeletonTableEpisodeDetail.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="35" count="42" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.containers.episodeDetail">
+      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="episodeDetail.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/containers/episodeDetail/episodeDetail.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.containers.episodeList">
+      <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <file name="episodeList.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/containers/episodeList/episodeList.tsx">
+        <metrics statements="14" coveredstatements="14" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="39" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.containers.header">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="header.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/containers/header/header.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.containers.podcastDetail">
+      <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="4" coveredmethods="4"/>
+      <file name="podcastDetail.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/containers/podcastDetail/podcastDetail.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="7" methods="4" coveredmethods="4"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="4" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.containers.podcastsList">
+      <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+      <file name="podcastsList.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/containers/podcastsList/podcastsList.tsx">
+        <metrics statements="11" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="4"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.hooks">
+      <metrics statements="44" coveredstatements="27" conditionals="14" coveredconditionals="4" methods="11" coveredmethods="8"/>
+      <file name="useGetFilteredPodcasts.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/hooks/useGetFilteredPodcasts.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+      </file>
+      <file name="useHandleEpisodeCache.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/hooks/useHandleEpisodeCache.ts">
+        <metrics statements="16" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+      <file name="useHandlePodcastCache.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/hooks/useHandlePodcastCache.ts">
+        <metrics statements="16" coveredstatements="13" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+      </file>
+      <file name="useSetIsLoadingPage.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/hooks/useSetIsLoadingPage.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.interfaces">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="episode.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/interfaces/episode.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="podcast.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/interfaces/podcast.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.pages.episodePage">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="episodePage.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/pages/episodePage/episodePage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.podcastPage">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="podcastPage.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/pages/podcastPage/podcastPage.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="store.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/redux/store.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="23" count="10" type="stmt"/>
+        <line num="25" count="10" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="37" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.redux.slices">
+      <metrics statements="36" coveredstatements="17" conditionals="10" coveredconditionals="0" methods="14" coveredmethods="6"/>
+      <file name="apiSlice.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/redux/slices/apiSlice.ts">
+        <metrics statements="24" coveredstatements="7" conditionals="10" coveredconditionals="0" methods="8" coveredmethods="3"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="11" count="10" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="6"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="38" count="10" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="69" count="10" type="stmt"/>
+      </file>
+      <file name="mainSlice.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/redux/slices/mainSlice.ts">
+        <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="22" count="10" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="64" count="10" type="stmt"/>
+        <line num="65" count="10" type="stmt"/>
+        <line num="66" count="10" type="stmt"/>
+        <line num="70" count="10" type="stmt"/>
+        <line num="71" count="3" type="stmt"/>
+        <line num="72" count="10" type="stmt"/>
+        <line num="73" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="5" methods="4" coveredmethods="4"/>
+      <file name="constant.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/utils/constant.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="10" type="stmt"/>
+        <line num="2" count="10" type="stmt"/>
+        <line num="4" count="10" type="stmt"/>
+      </file>
+      <file name="utils.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/utils/utils.ts">
+        <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="5" methods="4" coveredmethods="4"/>
+        <line num="4" count="41" type="stmt"/>
+        <line num="8" count="41" type="stmt"/>
+        <line num="9" count="41" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="41" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="41" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="41" type="stmt"/>
+        <line num="17" count="41" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="29" count="20" type="stmt"/>
+        <line num="31" count="20" type="stmt"/>
+        <line num="33" count="20" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils.test">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="mocks.ts" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/utils/test/mocks.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="279" count="3" type="stmt"/>
+      </file>
+      <file name="test.tsx" path="/Users/sergiosegura/Documents/React /inditex-frontend/inditex-frontend/src/utils/test/test.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="25" count="16" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

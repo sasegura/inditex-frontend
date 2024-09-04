@@ -1,0 +1,13 @@
+.imagePodDetail {
+  width: 200px !important;
+  height: 100%;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.contentPodDetail {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

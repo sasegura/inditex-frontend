@@ -1,0 +1,11 @@
+.imagePodCastCard {
+  width: 130px !important;
+  height: auto;
+  border-radius: 50%;
+  position: absolute;
+  transform: translateY(-65px);
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: 50;
+}
